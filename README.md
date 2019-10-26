@@ -20,8 +20,9 @@ mkdir src mkdir dist
 // --open 打包完成后是否自动打开浏览器预览
 }
 ```
-### 6.文件目录├── dist 打包后的文件
+### 6.文件目录
 ```
+├── dist 打包后的文件
 ├── package.json 项目配置信息
 ├── node_modules npm 安装的依赖包都在这里面
 ├── haha.js 任意模块js代码
